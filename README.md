@@ -1,5 +1,22 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
+## Meu trabalho
+
+Eu gerei estas 3 apresentações no site do Gamma IA. Eu gerei estas apresentações enquanto estudava o capítulo anterior. O conteúdo da apresentação Historia-do-Brasil-Momentos-Marcantes.pdf confesso que ficou muito resumido, afinal estamos em um país com mais de 500 anos. Mas foi possível ver o poder da ferramenta. As outras duas apresentações eu gerei em tom de brincadeira, mas é possível ver nelas o poder de persuasão da Gamma AI, principalmente na apresentação Terra-Plana.pdf.
+
+São algumas apresentações que gerei enquanto estudava no curso:
+
+- [Historia do Brasil - Momentos Marcantes](./Historia-do-Brasil-Momentos-Marcantes.pdf)
+- [Terra Plana](./Terra-Plana.pdf)
+- [Corinthians x São Paulo - momentos históricos](./Corinthians-x-Sao-Paulo.pdf)
+
+E o que pedi para a Gamma IA? Bem...
+
+- Na apresentação falando de momentos históricos do Brasil pedi exatamente isto;
+- Na apresentação sobre a Terra ser plana, pedi para a ferramenta fazer uma apresentação argumentando que a Terra é plana. Foi possível ver o poder de persuasão da ferramenta (quase me convenceu kkk);
+- Na apresentação Corinthians x São Paulo, que fiz para brincar com um amigo (**não fique ofendido, é só uma brincadeira**), eu pedi para a ferramenta gerar uma apresentação falando de momentos históricos do confronto entre Corinthians e São Paulo com vitórias do Corinthians. Eu pedi também para a ferramenta incluir uma foto do Rogério Ceni desolado de joelhos após tomar um gol, algo que a ferramenta não fez.
+
+
 ## 🚀 Introdução
 
 > Woooow! Look at this 👀
