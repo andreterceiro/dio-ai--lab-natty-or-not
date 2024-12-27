@@ -16,6 +16,8 @@ E o que pedi para a Gamma IA? Bem...
 - Na apresentação sobre a Terra ser plana, pedi para a ferramenta fazer uma apresentação argumentando que a Terra é plana. Foi possível ver o poder de persuasão da ferramenta (quase me convenceu kkk);
 - Na apresentação Corinthians x São Paulo, que fiz para brincar com um amigo (**não fique ofendido, é só uma brincadeira**), eu pedi para a ferramenta gerar uma apresentação falando de momentos históricos do confronto entre Corinthians e São Paulo com vitórias do Corinthians. Eu pedi também para a ferramenta incluir uma foto do Rogério Ceni desolado de joelhos após tomar um gol, algo que a ferramenta não fez.
 
+Eu também para testar gerei uma apresentação [falando de vitórias históricas do Ibis sobre o Corinthians](./Ibis-x-Corinthians.pdf). Esqueci de tirar o trecho em que pedi uma imagem do Rogério Ceni desolado na chão. Veja que o conteúdo gerado é em geral bom se a ferramenta for devidamente parametrizada, o que não foi neste caso.
+
 
 ## 🚀 Introdução
 
